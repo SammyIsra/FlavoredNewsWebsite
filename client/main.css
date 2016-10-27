@@ -92,3 +92,7 @@ nav .brand-logo {
 .sadness{
     background-color: rgb(153, 204, 255);
 }
+
+.container{
+    width: 90% !important;
+}
